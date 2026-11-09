@@ -1,4 +1,4 @@
-CLAUDE.md
+CLAUDE.md 
 How to work (high-level mindset)
 This section is non-negotiable and must never be removed.
 
